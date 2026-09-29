@@ -24,6 +24,12 @@ I build fast, privacy-first web and desktop products — from React front ends a
 
 ---
 
+## 📊 GitHub Streak
+
+<p align="left"><img src="https://streak-stats.demolab.com?user=subhamtewatia1&theme=tokyonight&border=ffffff&border_radius=8" alt="GitHub streak" /></p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### [Toolmunch](https://toolmunch.com) — Browser-first tools suite
